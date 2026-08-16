@@ -1,1 +1,2 @@
 Hello Git
+testing the short push command 
