@@ -1,3 +1,3 @@
-Hello Git
+hello from conflict demo 2
 testing the short push command 
 edited directly on github 
