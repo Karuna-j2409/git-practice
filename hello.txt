@@ -1,3 +1,3 @@
-hello from conflict demo 2
+Hello from both branch 1 and 2 
 testing the short push command 
 edited directly on github 
