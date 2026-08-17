@@ -1,0 +1,32 @@
+# Environment & secrets
+.env
+*.env
+.venv/
+venv/
+env/
+
+# Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Data Science / ML specific
+data/
+*.csv
+*.parquet
+models/
+*.pkl
+*.h5
+*.pt
+checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
